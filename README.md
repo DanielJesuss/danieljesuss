@@ -1,8 +1,8 @@
 ## Olá!!    Eu sou Daniel Jesus
 
-🔭Hoje Trabalho com suporte de TI <br>
-🌱Hoje estou cursando Gestão de TI <br>
-👨‍💻Estou aprendendo desenvolvimento web e programação
+▫ Hoje Trabalho com suporte de TI <br>
+▫ Hoje sou formado em Tecnologia da informação 👨‍💻💻 <br>
+▫ Estou aprendendo Phyton 
 
 <div align="center">
   <a href="https://github.com/DanielJesuss">
